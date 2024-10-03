@@ -104,7 +104,11 @@ After running the script:
 
 1. Use the "Art Counter Frame" object style for text frames containing art descriptions.
 2. Apply the appropriate numbered style (Spread, FullPage, etc.) to the first paragraph of each art description.
-3. Subsequent paragraphs in the same frame will automatically use the "Further Art Notes" style – all you need to do is press Enter.
+
+    > **TOP TIP!** <br>
+  This system works on a list basis, so you need to type a few words (or simply a space) for the numbering to show up.
+
+4. Subsequent paragraphs in the same frame will automatically use the "Further Art Notes" style – all you need to do is press Enter.
 
 ![Example spread](./Images/ExampleSpread.png)
 
