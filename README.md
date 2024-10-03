@@ -2,6 +2,8 @@
 
 PicTotter is a suite of InDesign scripts designed to streamline the process of managing image counts and briefs for illustrated fiction books. It automates tedious tasks, improves consistency, and enhances communication between designers, illustrators, and agents.
 
+This is an overview document, and the detailed process instructions can be found [here](Documentation.md).
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
